@@ -1,0 +1,9 @@
+{
+  "name": "ars-module5-sprint1-feature1-red",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Module 5 Sprint 1 single feature: student fee balance and clearance domain TDD RED suite in BDT",
+  "scripts": { "test": "node --test --test-reporter=tap tests/feature1-fee-clearance.test.mjs" },
+  "engines": { "node": ">=20" }
+}
