@@ -7,7 +7,8 @@
   "scripts": {
   "test": "node --test",
   "test:feature1": "node --test tests/feature1-fee-clearance.test.mjs",
-  "test:feature2": "node --test tests/feature2-payment-recording.test.mjs"
+  "test:feature2": "node --test tests/feature2-payment-recording.test.mjs",
+  "test:feature3": "node --test tests/feature3-clearance-api.test.mjs"
 },
   "engines": { "node": ">=20" }
 }
